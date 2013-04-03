@@ -1,0 +1,16 @@
+{
+   "name": "Publicis Webmail",
+   "description": "A shortcut to webmail.publicisgroupe.net",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://webmail.publicisgroupe.net"
+      },
+      "urls": ["http://webmail.publicisgroupe.net/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

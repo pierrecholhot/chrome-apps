@@ -1,0 +1,16 @@
+{
+   "name": "Bitbucket",
+   "description": "A shortcut to bitbucket.org",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.bitbucket.org"
+      },
+      "urls": ["https://www.bitbucket.org/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

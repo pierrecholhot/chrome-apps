@@ -1,0 +1,16 @@
+{
+   "name": "Linkedin",
+   "description": "A shortcut to linkedin.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.linkedin.com"
+      },
+      "urls": ["http://www.linkedin.com/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

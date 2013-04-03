@@ -1,0 +1,16 @@
+{
+   "name": "DigiHub",
+   "description": "A shortcut to github.digitas.fr",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "https://github.digitas.fr/"
+      },
+      "urls": ["https://github.digitas.fr/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

@@ -1,0 +1,16 @@
+{
+   "name": "My eBay (FR)",
+   "description": "Un raccourci vers my.ebay.fr",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://my.ebay.fr/ws/eBayISAPI.dll?MyEbay"
+      },
+      "urls": ["http://my.ebay.fr/ws/eBayISAPI.dll?MyEbay"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

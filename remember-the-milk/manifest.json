@@ -1,0 +1,16 @@
+{
+   "name": "Remember the Milk",
+   "description": "A shortcut to rememberthemilk.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.rememberthemilk.com"
+      },
+      "urls": ["http://www.rememberthemilk.com"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

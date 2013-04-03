@@ -1,0 +1,16 @@
+{
+   "name": "eBay (FR)",
+   "description": "Un raccourci vers eBay.fr",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.ebay.fr"
+      },
+      "urls": ["http://www.ebay.fr/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

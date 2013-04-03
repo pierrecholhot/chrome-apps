@@ -1,0 +1,16 @@
+{
+   "name": "Stackoverflow",
+   "description": "A shortcut to stackoverflow.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.stackoverflow.com"
+      },
+      "urls": ["http://www.stackoverflow.com/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

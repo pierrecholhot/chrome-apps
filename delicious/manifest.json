@@ -1,0 +1,16 @@
+{
+   "name": "Delicious",
+   "description": "A shortcut to delicious.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.delicious.com"
+      },
+      "urls": ["http://www.delicious.com/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

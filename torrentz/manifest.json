@@ -1,0 +1,16 @@
+{
+   "name": "Torrentz",
+   "description": "A shortcut to torrentz.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.torrentz.com"
+      },
+      "urls": ["http://www.torrentz.com/"]
+   },
+   "icons": {
+      "16": "16.ico"
+   },
+   "manifest_version": 2
+}

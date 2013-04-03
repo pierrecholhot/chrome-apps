@@ -1,0 +1,16 @@
+{
+   "name": "Twitter",
+   "description": "A shortcut to twitter.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.twitter.com"
+      },
+      "urls": ["http://www.twitter.com/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

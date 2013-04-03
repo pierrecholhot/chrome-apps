@@ -1,0 +1,16 @@
+{
+   "name": "Google Drive",
+   "description": "A shortcut to drive.google.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "https://drive.google.com"
+      },
+      "urls": ["https://drive.google.com/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}

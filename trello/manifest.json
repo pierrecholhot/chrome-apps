@@ -1,0 +1,16 @@
+{
+   "name": "Trello",
+   "description": "A shortcut to trello.com",
+   "version": "0.1",
+   "permissions": [],
+   "app": {
+      "launch": {
+         "web_url": "http://www.trello.com"
+      },
+      "urls": ["http://www.trello.com/"]
+   },
+   "icons": {
+      "128": "128.png"
+   },
+   "manifest_version": 2
+}
